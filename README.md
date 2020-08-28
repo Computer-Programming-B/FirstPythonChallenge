@@ -1,1 +1,2 @@
-# FirstPythonChallenge
+# First Python Challenge
+Go to [the Python Challenge website](http://www.pythonchallenge.com/) and click the link that says *Click here to get challenged*. You should use Python’s arithmetic operators to try to solve the first Python challenge. If you get it correct, it will advance you to the next level. Submit the Python program you wrote to solve the challenge by choosing *Share | Copy repl.it link* and adding the link to the google classroom assignment.
