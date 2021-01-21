@@ -1,4 +1,4 @@
-# First Python Challenge
+# First Python Challenge (Challenge #0)
 Go to [the Python Challenge website](http://www.pythonchallenge.com/) and click the link that says *Click here to get challenged*. You should see this picture.   
 
 ![](PythonChallenge.JPG)   
